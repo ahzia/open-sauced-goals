@@ -1,15 +1,15 @@
 [
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 39359,
-    "open_issues_count": 2675,
-    "forks_count": 2438
+    "stargazers_count": 39387,
+    "open_issues_count": 2694,
+    "forks_count": 2445
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 41326,
+    "stargazers_count": 41443,
     "open_issues_count": 2,
-    "forks_count": 9099
+    "forks_count": 9119
   },
   {
     "full_name": "Apipie/apipie-rails",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "CanCanCommunity/cancancan",
-    "stargazers_count": 5175,
-    "open_issues_count": 48,
-    "forks_count": 574
+    "stargazers_count": 5178,
+    "open_issues_count": 41,
+    "forks_count": 576
   },
   {
     "full_name": "ahzia/Space-Travelers",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "harshbg/Sign-Language-Interpreter-using-Deep-Learning",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 7,
     "forks_count": 110
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 9898,
+    "stargazers_count": 9909,
     "open_issues_count": 19,
     "forks_count": 2392
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "stevenhalim/cpbook-code",
-    "stargazers_count": 1407,
+    "stargazers_count": 1408,
     "open_issues_count": 28,
     "forks_count": 373
   }
