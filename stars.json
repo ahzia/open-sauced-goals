@@ -1,27 +1,27 @@
 [
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 43083,
-    "open_issues_count": 2745,
-    "forks_count": 2787
+    "stargazers_count": 43113,
+    "open_issues_count": 2738,
+    "forks_count": 2791
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 50614,
+    "stargazers_count": 50688,
     "open_issues_count": 2,
-    "forks_count": 10346
+    "forks_count": 10357
   },
   {
     "full_name": "Apipie/apipie-rails",
-    "stargazers_count": 2386,
-    "open_issues_count": 228,
+    "stargazers_count": 2387,
+    "open_issues_count": 223,
     "forks_count": 450
   },
   {
     "full_name": "microverseinc/linters-config",
-    "stargazers_count": 222,
-    "open_issues_count": 31,
-    "forks_count": 1184
+    "stargazers_count": 223,
+    "open_issues_count": 33,
+    "forks_count": 1185
   },
   {
     "full_name": "Donard97/code-buddy-backend",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "CanCanCommunity/cancancan",
-    "stargazers_count": 5323,
+    "stargazers_count": 5327,
     "open_issues_count": 55,
     "forks_count": 625
   },
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "VarmaMSP/UVA-Solutions",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "harshbg/Sign-Language-Interpreter-using-Deep-Learning",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 7,
     "forks_count": 151
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 11085,
-    "open_issues_count": 23,
-    "forks_count": 2494
+    "stargazers_count": 11097,
+    "open_issues_count": 24,
+    "forks_count": 2496
   },
   {
     "full_name": "ahzia/Sign-Language-DataSet",
@@ -86,7 +86,7 @@
   {
     "full_name": "stevenhalim/cpbook-code",
     "stargazers_count": 1655,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 429
   }
 ]
